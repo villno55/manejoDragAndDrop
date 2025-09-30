@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>projecy Kanban</title>
-  <link rel="stylesheet" href="style.css">
+  <link rel="Stylesheet" href="style.css">
 </head>
 <body>
   <h1>Tablero de tareas</h1>
